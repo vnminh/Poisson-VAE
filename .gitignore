@@ -1,5 +1,6 @@
 /data/
 /runs/
+/runs.zip
 __pycache__/
 *.pyc
 .venv/
